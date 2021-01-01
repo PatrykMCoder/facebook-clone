@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">facebook-clone</string>
     <string name="login">Login</string>
+    <string name="first_name">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="email">Email</string>
+    <string name="create_account">create account</string>
+    <string name="password">Password</string>
+    <string name="description">description</string>
 </resources>
