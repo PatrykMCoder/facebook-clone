@@ -9,4 +9,12 @@
     <string name="create_account">create account</string>
     <string name="password">Password</string>
     <string name="description">description</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <string name="example_user">Username lastname</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="_4">4</string>
+    <string name="_4_comments">4 comments</string>
+    <string name="like">Like</string>
+    <string name="write_a_comment">Write a comment...</string>
+    <string name="comment">comment</string>
 </resources>

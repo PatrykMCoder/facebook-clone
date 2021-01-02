@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:src="@drawable/ic_launcher_background"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp"
+        android:layout_centerVertical="true"/>
+
+    <EditText
+        android:id="@+id/new_post_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="@null"
+        android:hint="@string/what_s_on_your_mind"
+        android:inputType="text"
+        android:background="@drawable/border"
+        android:layout_toEndOf="@id/profile_image"
+        android:paddingEnd="0dp"
+        android:paddingStart="5dp"
+        android:gravity="center_vertical" />
+
+</RelativeLayout>
